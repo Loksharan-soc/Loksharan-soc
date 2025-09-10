@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Loksharan
+#  Hi, I'm Loksharan 👋
 
 🚀 Aspiring Cybersecurity Expert | MS Student | Hands-on Security Innovator
 
