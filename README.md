@@ -18,7 +18,6 @@ I thrive at the intersection of cybersecurity, digital forensics, and threat int
 
 ## 📊 GitHub Impact & Stats
 
-![Loksharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loksharan-soc\&show_icons=true\&theme=radical\&count_private=true\&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loksharan-soc\&layout=compact\&theme=radical)
 
 ---
