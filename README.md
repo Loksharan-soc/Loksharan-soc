@@ -1,25 +1,31 @@
-# Hi, I'm Loksharan 👋
+# 👋 Hi, I'm Loksharan
 
-I'm an MS student in Cybersecurity with hands-on experience in threat detection, digital forensics, and software security projects.
+🚀 Aspiring Cybersecurity Expert | MS Student | Hands-on Security Innovator
 
----
-
-## 🔧 Skills & Tools
-
-* **Security Tools:** Wazuh, Splunk, Velociraptor, FTK Imager, Autopsy, Sleuth Kit, pfSense, Snort
-* **Programming:** Python, Bash, PowerShell
-* **Other:** Cyber Threat Intelligence, Vulnerability Scanning, MITRE ATT\&CK Mapping
+I thrive at the intersection of cybersecurity, digital forensics, and threat intelligence. With a passion for building real-world security solutions and dissecting complex attack vectors, I turn challenges into actionable insights and impactful projects.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Core Expertise & Tech Arsenal
 
-![Loksharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loksharan-soc\&show_icons=true\&theme=radical)
+* **Cybersecurity Platforms:** Wazuh, Splunk, Velociraptor, FTK Imager, Autopsy, Sleuth Kit, pfSense, Snort
+* **Programming & Automation:** Python, Bash, PowerShell, Scripting for Security Operations
+* **Threat Intelligence & Defense:** MITRE ATT\&CK Mapping, SOC Operations, Security Monitoring, Vulnerability Analysis
+* **Networking & Cloud Security:** Network Analysis, Firewalls, Cloud Security Basics
+* **Professional Skills:** Incident Response, Forensic Analysis, Security Research, Open-Source Contributions
+
+---
+
+## 📊 GitHub Impact & Stats
+
+![Loksharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loksharan-soc\&show_icons=true\&theme=radical\&count_private=true\&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loksharan-soc\&layout=compact\&theme=radical)
 
 ---
 
-## 📫 Contact Me
+## 🌐 Connect with Me
+
+I’m passionate about collaboration, security research, and building innovative solutions. Let’s connect and push the boundaries of cybersecurity together.
 
 * **Email:** [loksharan.soc@gmail.com](mailto:loksharan.soc@gmail.com)
 * **LinkedIn:** [linkedin.com/in/loksharan](https://linkedin.com/in/loksharan)
@@ -28,3 +34,5 @@ I'm an MS student in Cybersecurity with hands-on experience in threat detection,
 ---
 
 *“Learning never exhausts the mind.”* – Leonardo da Vinci
+
+*"Turning complex cyber challenges into secure realities."*
