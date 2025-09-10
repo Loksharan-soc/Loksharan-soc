@@ -1,12 +1,12 @@
 #  Hi, I'm Loksharan 👋
 
-🚀 Aspiring Cybersecurity Expert | MS Student | Hands-on Security Innovator
+ Aspiring Cybersecurity Expert | MS Student | Hands-on Security Innovator
 
 I thrive at the intersection of cybersecurity, digital forensics, and threat intelligence. With a passion for building real-world security solutions and dissecting complex attack vectors, I turn challenges into actionable insights and impactful projects.
 
 ---
 
-## 🛠️ Core Expertise & Tech Arsenal
+##  Core Expertise & Tech Arsenal
 
 * **Cybersecurity Platforms:** Wazuh, Splunk, Velociraptor, FTK Imager, Autopsy, Sleuth Kit, pfSense, Snort
 * **Programming & Automation:** Python, Bash, PowerShell, Scripting for Security Operations
