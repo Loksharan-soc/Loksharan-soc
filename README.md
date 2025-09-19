@@ -23,19 +23,9 @@ I thrive at the intersection of cybersecurity, digital forensics, and threat int
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loksharan-soc&theme=radical)
 
 
-# Hi, I'm Loksharan 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/loksharan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://loksharan-soc.github.io)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loksharan-soc&show_icons=true&theme=radical)
-
-## 🛠 Projects
-- [wazuh-detection-lab](https://github.com/loksharan-soc/threat-intelligence-hub) ![GitHub Repo Size](https://img.shields.io/github/repo-size/loksharan-soc/threat-intelligence-hub)
-
-
-## 📊 Languages & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loksharan-soc&layout=compact)
-
-## 💻 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/loksharan-soc/count.svg)
 
 
 ## 🌐 Connect with Me
