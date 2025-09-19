@@ -23,10 +23,6 @@ I thrive at the intersection of cybersecurity, digital forensics, and threat int
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loksharan-soc&theme=radical)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/loksharan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://loksharan-soc.github.io)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=loksharan-soc&theme=react-dark)
 
 
 ## 🌐 Connect with Me
