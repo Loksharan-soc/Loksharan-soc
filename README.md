@@ -23,6 +23,19 @@ I thrive at the intersection of cybersecurity, digital forensics, and threat int
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loksharan-soc&theme=radical)
 
 
+# Hi, I'm Loksharan 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loksharan-soc&show_icons=true&theme=radical)
+
+## 🛠 Projects
+- [wazuh-detection-lab](https://github.com/loksharan-soc/wazuh-detection-lab) ![GitHub Repo Size](https://img.shields.io/github/repo-size/loksharan-soc/wazuh-detection-lab)
+- [Browser Extension: Malicious URL Blocker](https://github.com/loksharan-soc/malicious-url-blocker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/loksharan-soc/malicious-url-blocker)
+
+## 📊 Languages & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loksharan-soc&layout=compact)
+
+## 💻 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/loksharan-soc/count.svg)
 
 
 ## 🌐 Connect with Me
